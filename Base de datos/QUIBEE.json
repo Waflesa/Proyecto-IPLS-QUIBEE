@@ -1,0 +1,21 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "PostgreSQL 18",
+            "Group": "Servers",
+            "Host": "localhost",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "postgres",
+            "Comment": "Auto-detected PostgreSQL 18 installation with the data directory at C:\\Program Files\\PostgreSQL\\18\\data",
+            "DBRestrictionType": "databases",
+            "TunnelPort": "22",
+            "TunnelKeepAlive": 0,
+            "KerberosAuthentication": false,
+            "ConnectionParameters": {
+                "sslmode": "prefer",
+                "connect_timeout": 10
+            }
+        }
+    }
+}

@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict WIBOo5CbJEGo8hdfofJyfa9XPOP92Zu96DdO2vKI2XIzHGab6Oqn2AM9DCMWT2e
+\restrict ubWAJHmsizMKe7dEQHcPazykCP66mVfhcb84UR2Dm4j9cnTWyha2gbbLeJ3gAau
 
 -- Dumped from database version 18.0
 -- Dumped by pg_dump version 18.0
@@ -446,5 +446,5 @@ ALTER TABLE ONLY public.respuestas
 -- PostgreSQL database dump complete
 --
 
-\unrestrict WIBOo5CbJEGo8hdfofJyfa9XPOP92Zu96DdO2vKI2XIzHGab6Oqn2AM9DCMWT2e
+\unrestrict ubWAJHmsizMKe7dEQHcPazykCP66mVfhcb84UR2Dm4j9cnTWyha2gbbLeJ3gAau
 
